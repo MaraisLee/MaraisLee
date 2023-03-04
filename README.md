@@ -1,7 +1,24 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyenhj%2Fhit-counter&count_bg=%23080808&title_bg=%23378329&icon=linux.svg&icon_color=%23080808&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=soft&color=015E2F&height=200&section=header&text=Hello%World!&fontSize=50&fontColor=ffffff"/>
 
-	<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
+	
+	
+	
+<div align=center><h3>🛠 Tech Stacks </h1></div>
+
+<div align=center> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+		<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+	<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
+	<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+	</div>
+	
+<div align=center><h3>📊 GitHub Stats </h1></div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenhj&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yenhj&show_icons=true">
+
