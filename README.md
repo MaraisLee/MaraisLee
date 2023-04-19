@@ -5,7 +5,7 @@
 
 "내가 이 서비스를 사용한다면?"을 가지고 작업하는 개발자 이예은입니다.
     
-📧 yen.greact@gamil.com <br>
+📧 yen.greact@gmail.com <br>
  🔗노션 포트폴리오 : https://picayune-kilometer-9ef.notion.site/Frontend-Developer-6a90f987758c425f8ea2919d8ddf9a95
 <br/><br/>
 		
