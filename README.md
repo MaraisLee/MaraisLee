@@ -3,10 +3,10 @@
 
 <h1>👩‍💻 About Me </h1>
 
-"If I am one of the users of this service?"
+"What if I use this service?"
     
 📧 maraisienne.lee@gmail.com <br>
- 🔗노션 포트폴리오 : https://picayune-kilometer-9ef.notion.site/Frontend-Developer-6a90f987758c425f8ea2919d8ddf9a95
+ 🔗노션 포트폴리오 : TBD
 <br/><br/>
 		
 <h3>🛠 Tech Stacks </h1>
@@ -46,5 +46,5 @@
 	
 <div align=center><h3>📊 GitHub Stats </h1></div>
 		
-![yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenhj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenhj&layout=compact)](https://github.com/yenhj/github-readme-stats)
+![yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaraisLee&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaraisLee&layout=compact)](https://github.com/yenhj/github-readme-stats)
