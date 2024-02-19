@@ -1,15 +1,15 @@
-<div align=center>
-	<a href="https://picayune-kilometer-9ef.notion.site/Portfolio-6a90f987758c425f8ea2919d8ddf9a95"><img src="https://capsule-render.vercel.app/api?type=soft&color=015E2F&height=200&section=header&text=WELCOME%20TO%20MY%WORLD!&fontSize=50&fontColor=ffffff&animation=blinking"/>
+<div>
+	<a href="https://picayune-kilometer-9ef.notion.site/Portfolio-6a90f987758c425f8ea2919d8ddf9a95"><img src="https://capsule-render.vercel.app/api?type=soft&color=015E2F&height=200&section=header&text=THANK%20YOU%20FOR%20VISITING!&fontSize=50&fontColor=ffffff&animation=blinking"/>
 
-<h1>👩‍💻 About Me </h1>
+<h2>👩‍💻 About Me </h2>
 
-"What if I use this service?"
+I always think like <b>"What If I Use This Service?"</b>
     
-📧 maraisienne.lee@gmail.com <br>
- 🔗노션 포트폴리오 : TBD
+- Contact: maraisienne.lee@gmail.com <br>
+- Portfolio: TBD
 <br/><br/>
 		
-<h3>🛠 Tech Stacks </h1>
+<h2>🛠 Tech Stacks </h2>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -44,7 +44,12 @@
 <br/><br/>	
 
 	
-<div align=center><h3>📊 GitHub Stats </h1></div>
-		
-![yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaraisLee&show_icons=true&theme=radical)
+<div><h2>📊 GitHub Stats </h2></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaraisLee&layout=compact)](https://github.com/yenhj/github-readme-stats)
+
+<div><h2>🏋️‍♂️ Problem Solving </h2></div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=marais100)](https://solved.ac/marais100)
+
