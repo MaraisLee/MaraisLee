@@ -1,8 +1,7 @@
-<div>
-	<a href="https://picayune-kilometer-9ef.notion.site/Portfolio-6a90f987758c425f8ea2919d8ddf9a95"><img src="https://capsule-render.vercel.app/api?type=soft&color=015E2F&height=200&section=header&text=THANK%20YOU%20FOR%20VISITING!&fontSize=50&fontColor=ffffff&animation=blinking"/>
+# THANK YOU FOR VISITING MY GITHUB😃
 
-<h2>👩‍💻 About Me </h2>
-
+<h2>👩🏻‍💻 About Me </h2>
+I AM A FRONT-END DEVELOPER. <br/>
 I always think like <b>"What If I Use This Service?"</b>
     
 - Contact: maraisienne.lee@gmail.com <br>
@@ -10,8 +9,10 @@ I always think like <b>"What If I Use This Service?"</b>
 <br/><br/>
 		
 <h2>🛠 Tech Stacks </h2>
+
+<div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https:👩🏻‍💻//img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> 
@@ -41,7 +42,8 @@ I always think like <b>"What If I Use This Service?"</b>
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<br/><br/>	
+<br/><br/>
+</div>
 
 	
 <div><h2>📊 GitHub Stats </h2></div>
