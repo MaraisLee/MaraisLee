@@ -6,6 +6,7 @@ I always think like <b>"What If I Use This Service?"</b>
     
 - Contact: maraisienne.lee@gmail.com <br>
 - Portfolio: TBD
+- Blog: https://mariais.tistory.com/
 <br/><br/>
 		
 <h2>🛠 Tech Stacks </h2>
