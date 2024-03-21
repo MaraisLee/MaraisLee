@@ -1,7 +1,7 @@
 # THANK YOU FOR VISITING MY GITHUB😃
 
 <h2>👩🏻‍💻 About Me </h2>
-I AM A FRONT-END DEVELOPER. <br/>
+I AM A FRONTEND DEVELOPER. <br/>
 I always think like <b>"What If I Use This Service?"</b>
     
 - Contact: maraisienne.lee@gmail.com <br>
